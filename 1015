@@ -1,0 +1,6 @@
+x = int(input())
+y = float(input())
+
+volume = x/y
+
+print(f"{volume:.3f} km/l")
